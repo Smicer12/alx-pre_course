@@ -1,1 +1,0 @@
-this is README.md that is inside folder js
